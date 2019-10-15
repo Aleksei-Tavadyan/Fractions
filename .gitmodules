@@ -1,0 +1,6 @@
+[submodule "accounts"]
+	path = accounts
+	url = https://github.com/kovinz/Accounts
+[submodule "xml"]
+	path = xml
+	url = https://github.com/kovinz/Java_to_Xml_serializer
